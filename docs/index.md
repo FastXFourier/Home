@@ -18,8 +18,8 @@ title: Fast X Fourier
 รวมเฉลยโจทย์ Thailand Olympiad in Informatics (TOI) 👇
 
 ## TOI 20
-[Toi](#toi-20)
+- เฉลยข้อ [toi20_sculpture](toi20_sculpture.md)
 ## TOI 21
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Nzg1NjY5Ml19
+eyJoaXN0b3J5IjpbMTc5Njc0MzMwNl19
 -->
