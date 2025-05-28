@@ -11,14 +11,14 @@ title: Fast X Fourier
 
 # Table Of Contents
 - [TOI](#toi)
-  - [TOI 20](#toi-20)
   - [TOI 21](#toi-21)
 
 # TOI
 รวมเฉลยโจทย์ Thailand Olympiad in Informatics (TOI) 👇
 ## TOI 21
-- เฉลยข้อ [toi21_duty_free](toi21/)
+- Link เฉลยข้อ [toi21_duty_free](https://fastxfourier.github.io/toi21_duty_free/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3NjI4MTgsMTM0MjA4Njk5NCw0ND
-UxMzY0ODAsNTI3OTA3MzIzLDE3OTY3NDMzMDZdfQ==
+eyJoaXN0b3J5IjpbLTM2MzEzMzE5NywtMTMzNDc2MjgxOCwxMz
+QyMDg2OTk0LDQ0NTEzNjQ4MCw1Mjc5MDczMjMsMTc5Njc0MzMw
+Nl19
 -->
