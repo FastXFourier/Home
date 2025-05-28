@@ -22,6 +22,6 @@ title: Fast X Fourier
 ## TOI 21
 - เฉลยข้อ [toi21_duty_free](toi21/toi21_duty_free.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTM2NDgwLDUyNzkwNzMyMywxNzk2Nz
-QzMzA2XX0=
+eyJoaXN0b3J5IjpbMTM0MjA4Njk5NCw0NDUxMzY0ODAsNTI3OT
+A3MzIzLDE3OTY3NDMzMDZdfQ==
 -->
