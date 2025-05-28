@@ -20,6 +20,7 @@ title: Fast X Fourier
 ## TOI 20
 - เฉลยข้อ [toi20_sculpture](toi20_sculpture.md)
 ## TOI 21
+- เฉลยข้อ [toi21_duty_free](toi21_duty_free.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njc0MzMwNl19
+eyJoaXN0b3J5IjpbNTI3OTA3MzIzLDE3OTY3NDMzMDZdfQ==
 -->
