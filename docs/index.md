@@ -20,3 +20,6 @@ title: Fast X Fourier
 ## TOI 20
 
 ## TOI 21
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2NzExOTEyM119
+-->
