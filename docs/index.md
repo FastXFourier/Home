@@ -18,8 +18,9 @@ title: Fast X Fourier
 ## TOI 21
 - Link เฉลยข้อ [toi21_duty_free](https://fastxfourier.github.io/toi21_duty_free/)
 - Link เฉลยข้อ [toi21_tech_sprites](https://fastxfourier.github.io/toi21_tech_sprites/)
+- Link เฉลยข้อ [toi21_quartet](https://fastxfourier.github.io/toi21_quartet/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjQzNzg1OSwtMzYzMTMzMTk3LC0xMz
-M0NzYyODE4LDEzNDIwODY5OTQsNDQ1MTM2NDgwLDUyNzkwNzMy
-MywxNzk2NzQzMzA2XX0=
+eyJoaXN0b3J5IjpbMTM0Mjk5NTc5OSwxNDUyNDM3ODU5LC0zNj
+MxMzMxOTcsLTEzMzQ3NjI4MTgsMTM0MjA4Njk5NCw0NDUxMzY0
+ODAsNTI3OTA3MzIzLDE3OTY3NDMzMDZdfQ==
 -->
